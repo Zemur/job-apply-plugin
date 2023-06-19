@@ -3,7 +3,7 @@
   "name": "Job Application Helper",
   "version": "0.1",
 
-  "description": "Adds a browser action icon to the toolbar. Click the button to choose a beast. The active tab's body content is then replaced with a picture of the chosen beast. See https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples#beastify",
+  "description": "Helper for all those little things that applications ask for like LinkedIn URL and cover letters."
   "homepage_url": "https://github.com/Zemur/job-apply-plugin",
   "icons": {
     "48": "icons/job_application_helper-48.png"
